@@ -160,3 +160,6 @@ while menu_input != menu_answers[-1]:
 
 
 print("\nThanks for playing!\n")
+
+
+print("")
